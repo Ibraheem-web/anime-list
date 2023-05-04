@@ -4,7 +4,7 @@ date: 2023-05-03T22:12:54+05:00
 draft: false
 ---
 
-![image](/images/bleach.jpg)
+![image](./images/bleach.jpg)
 
 ## About Bleach
 
