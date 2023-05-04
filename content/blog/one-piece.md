@@ -4,7 +4,7 @@ date: 2023-05-03T22:12:33+05:00
 draft: false
 ---
 
-![image](./images/one-piece.jpg)
+![image](/images/one-piece.jpg)
 
 ## About One Piece
 

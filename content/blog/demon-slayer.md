@@ -4,7 +4,7 @@ date: 2023-05-03T22:14:37+05:00
 draft: false
 ---
 
-![image](./images/demon-salayer.jpg)
+![image](/images/demon-salayer.jpg)
 
 ## About Demon Slayer
 

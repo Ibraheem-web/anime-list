@@ -4,7 +4,7 @@ date: 2023-05-03T22:12:20+05:00
 draft: false
 ---
 
-![image](./images/naruto.jpg)
+![image](/images/naruto.jpg)
 
 ## About Naruto
 
